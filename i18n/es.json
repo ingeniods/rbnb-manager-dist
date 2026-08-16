@@ -118,6 +118,8 @@
   "CREATE_ACCOUNT": "Crear cuenta",
   "SIGNUP_SUBTITLE": "Regístrate con tu correo para acceder a Casaly.",
   "FULL_NAME": "Nombre completo",
+  "EDIT_PROFILE": "Editar perfil",
+  "COLOR_SCHEME": "Esquema de colores",
   "PHONE": "Teléfono",
   "PHONE_HINT": "Incluye el código de país, por ejemplo +1 234 567 8900",
   "CONFIRM_PASSWORD": "Confirmar contraseña",
