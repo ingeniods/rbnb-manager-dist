@@ -39,6 +39,7 @@
   "PERSON_ROLE.manager": "Manager",
   "PERSON_ROLE.maintenance": "Maintenance",
   "PERSON_ROLE.cleaning": "Cleaning",
+  "PERSON_ROLE.owner": "Owner",
   "START_AT": "Start",
   "END_AT": "End",
   "GUESTS": "Guests",
@@ -91,6 +92,7 @@
   "CHECKLIST": "Checklist",
   "ERR_MAX_COMMENT_PHOTOS": "Maximum 5 photos per comment",
   "ERR_PHOTO_TOO_LARGE": "Photo exceeds the maximum allowed size",
+  "ERR_SCHEDULED_PAST": "Scheduled date must be in the future",
   "LANDING_LOGIN": "Log in",
   "LANDING_SIGNUP": "Sign up",
   "LANDING_BADGE": "Simplified rental management",
@@ -130,5 +132,9 @@
   "ERR_EMAIL": "Enter a valid email",
   "ERR_PASSWORD": "Password must be at least 6 characters",
   "ERR_PASSWORD_MATCH": "Passwords do not match",
-  "ERR_OTP": "Enter a 6-digit code"
+  "ERR_OTP": "Enter a 6-digit code",
+  "SIGNUP_UNEXPECTED_ERROR": "We couldn't create the account. Try again later or contact support.",
+  "SIGNUP_EMAIL_EXISTS": "This email is already registered. Try logging in.",
+  "SIGNUP_WEAK_PASSWORD": "Password is too weak. Use at least 6 characters.",
+  "SIGNUP_RATE_LIMIT": "Too many attempts. Wait a few minutes and try again."
 }

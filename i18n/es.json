@@ -39,6 +39,7 @@
   "PERSON_ROLE.manager": "Gerente",
   "PERSON_ROLE.maintenance": "Mantenimiento",
   "PERSON_ROLE.cleaning": "Aseo",
+  "PERSON_ROLE.owner": "Propietario",
   "START_AT": "Inicio",
   "END_AT": "Fin",
   "GUESTS": "Huéspedes",
@@ -91,6 +92,7 @@
   "CHECKLIST": "Checklist",
   "ERR_MAX_COMMENT_PHOTOS": "Máximo 5 fotos por comentario",
   "ERR_PHOTO_TOO_LARGE": "La foto supera el tamaño máximo permitido",
+  "ERR_SCHEDULED_PAST": "La fecha programada debe ser futura",
   "LANDING_LOGIN": "Iniciar sesión",
   "LANDING_SIGNUP": "Crear cuenta",
   "LANDING_BADGE": "Gestión de alquileres simplificada",
@@ -130,5 +132,9 @@
   "ERR_EMAIL": "Ingresa un correo válido",
   "ERR_PASSWORD": "La contraseña debe tener al menos 6 caracteres",
   "ERR_PASSWORD_MATCH": "Las contraseñas no coinciden",
-  "ERR_OTP": "Ingresa un código de 6 dígitos"
+  "ERR_OTP": "Ingresa un código de 6 dígitos",
+  "SIGNUP_UNEXPECTED_ERROR": "No pudimos crear la cuenta. Intenta más tarde o contacta soporte.",
+  "SIGNUP_EMAIL_EXISTS": "Este correo ya está registrado. Intenta iniciar sesión.",
+  "SIGNUP_WEAK_PASSWORD": "La contraseña es muy débil. Usa al menos 6 caracteres.",
+  "SIGNUP_RATE_LIMIT": "Enviaste demasiados intentos. Espera unos minutos y prueba de nuevo."
 }
