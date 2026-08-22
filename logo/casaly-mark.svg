@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Casaly">
+  <defs>
+    <linearGradient id="casaly-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7592ff"/>
+      <stop offset="100%" stop-color="#2a31d8"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="92" height="92" rx="22" fill="url(#casaly-grad)"/>
+  <path d="M69.9 41.3 A26 26 0 1 0 69.9 74.7" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+  <path d="M50 42 L61 54 L61 70 L39 70 L39 54 Z" fill="#ffffff"/>
+</svg>
