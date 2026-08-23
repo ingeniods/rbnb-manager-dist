@@ -174,5 +174,15 @@
   "RNT_NUMBER": "Número RNT",
   "NO_RNT": "No hay RNT",
   "ERR_RNT_INVALID_DATE": "La fecha debe tener formato mm-dd",
-  "ERR_RNT_INVALID_NUMBER": "El número solo puede contener letras mayúsculas, números y guiones"
+  "ERR_RNT_INVALID_NUMBER": "El número solo puede contener letras mayúsculas, números y guiones",
+  "ICAL_URL": "URL del calendario iCal",
+  "SYNC_ICAL": "Sincronizar iCal",
+  "SYNCING": "Sincronizando...",
+  "ICAL_LAST_SYNC": "Última sincronización:",
+  "ICAL_SYNC_RESULT": "Sincronización completada",
+  "CREATED": "creadas",
+  "UPDATED": "actualizadas",
+  "UNCHANGED": "sin cambios",
+  "FAILED": "fallidas",
+  "ERR_ICAL_URL_REQUIRED": "La URL del calendario iCal es requerida"
 }

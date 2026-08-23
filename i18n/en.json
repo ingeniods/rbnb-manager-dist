@@ -174,5 +174,15 @@
   "RNT_NUMBER": "RNT number",
   "NO_RNT": "No RNT",
   "ERR_RNT_INVALID_DATE": "Date must be in mm-dd format",
-  "ERR_RNT_INVALID_NUMBER": "The number can only contain uppercase letters, numbers and hyphens"
+  "ERR_RNT_INVALID_NUMBER": "The number can only contain uppercase letters, numbers and hyphens",
+  "ICAL_URL": "iCal calendar URL",
+  "SYNC_ICAL": "Sync iCal",
+  "SYNCING": "Syncing...",
+  "ICAL_LAST_SYNC": "Last sync:",
+  "ICAL_SYNC_RESULT": "Sync completed",
+  "CREATED": "created",
+  "UPDATED": "updated",
+  "UNCHANGED": "unchanged",
+  "FAILED": "failed",
+  "ERR_ICAL_URL_REQUIRED": "The iCal calendar URL is required"
 }
