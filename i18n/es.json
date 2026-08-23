@@ -173,7 +173,7 @@
   "RNT_DATE": "Fecha RNT",
   "RNT_NUMBER": "Número RNT",
   "NO_RNT": "No hay RNT",
-  "ERR_RNT_INVALID_DATE": "La fecha debe tener formato mm-dd",
+  "ERR_RNT_INVALID_DATE": "La fecha no es válida",
   "ERR_RNT_INVALID_NUMBER": "El número solo puede contener letras mayúsculas, números y guiones",
   "ICAL_URL": "URL del calendario iCal",
   "SYNC_ICAL": "Sincronizar iCal",
