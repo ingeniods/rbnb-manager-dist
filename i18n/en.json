@@ -171,6 +171,8 @@
   "BY": "by",
   "RNT": "RNT",
   "RNT_DATE": "RNT date",
+  "MONTH": "Month",
+  "DAY": "Day",
   "RNT_NUMBER": "RNT number",
   "NO_RNT": "No RNT",
   "ERR_RNT_INVALID_DATE": "Date is not valid",
