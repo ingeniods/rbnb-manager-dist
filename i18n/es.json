@@ -23,6 +23,7 @@
   "TEMPLATE": "Descargar plantilla",
   "IMPORT_SUMMARY": "Importación completa: {{inserted}} agregados, {{skipped}} omitidos (duplicados), {{errors}} con error.",
   "IMPORT_LINKS_NOT_FOUND": "No se encontró ninguna persona con el correo: {{emails}}",
+  "IMPORT_UNIT_NOT_FOUND": "No se encontró inmueble con código: {{codes}}",
   "NAME": "Nombre",
   "LOCATION": "Ubicación",
   "CODE": "Código",
@@ -161,5 +162,17 @@
   "REPAIR_STATUS.RESUELTO": "Resuelto",
   "REPAIR_STATUS.NEGADO": "Negado",
   "ERR_REPAIR_CODE_REQUIRED": "El código es obligatorio cuando la gestión es por seguro",
-  "ERR_INVALID_STATE_TRANSITION": "Transición de estado no permitida según la máquina de estados"
+  "ERR_INVALID_STATE_TRANSITION": "Transición de estado no permitida según la máquina de estados",
+  "QUOTE": "Cotización",
+  "NO_QUOTE": "No hay cotización",
+  "SELECT_QUOTE_FILE": "Seleccionar imagen o PDF",
+  "SEND_QUOTE": "Enviar cotización",
+  "SENT_AT": "Enviado el",
+  "BY": "por",
+  "RNT": "RNT",
+  "RNT_DATE": "Fecha RNT",
+  "RNT_NUMBER": "Número RNT",
+  "NO_RNT": "No hay RNT",
+  "ERR_RNT_INVALID_DATE": "La fecha debe tener formato mm-dd",
+  "ERR_RNT_INVALID_NUMBER": "El número solo puede contener letras mayúsculas, números y guiones"
 }

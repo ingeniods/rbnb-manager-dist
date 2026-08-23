@@ -23,6 +23,7 @@
   "TEMPLATE": "Download template",
   "IMPORT_SUMMARY": "Import complete: {{inserted}} added, {{skipped}} skipped (duplicates), {{errors}} with errors.",
   "IMPORT_LINKS_NOT_FOUND": "No matching person found for: {{emails}}",
+  "IMPORT_UNIT_NOT_FOUND": "No unit found with code: {{codes}}",
   "NAME": "Name",
   "LOCATION": "Location",
   "CODE": "Code",
@@ -161,5 +162,17 @@
   "REPAIR_STATUS.RESUELTO": "Resolved",
   "REPAIR_STATUS.NEGADO": "Denied",
   "ERR_REPAIR_CODE_REQUIRED": "The code is required when management is via insurance",
-  "ERR_INVALID_STATE_TRANSITION": "State transition is not allowed by the state machine"
+  "ERR_INVALID_STATE_TRANSITION": "State transition is not allowed by the state machine",
+  "QUOTE": "Quote",
+  "NO_QUOTE": "No quote yet",
+  "SELECT_QUOTE_FILE": "Select image or PDF",
+  "SEND_QUOTE": "Send quote",
+  "SENT_AT": "Sent on",
+  "BY": "by",
+  "RNT": "RNT",
+  "RNT_DATE": "RNT date",
+  "RNT_NUMBER": "RNT number",
+  "NO_RNT": "No RNT",
+  "ERR_RNT_INVALID_DATE": "Date must be in mm-dd format",
+  "ERR_RNT_INVALID_NUMBER": "The number can only contain uppercase letters, numbers and hyphens"
 }
