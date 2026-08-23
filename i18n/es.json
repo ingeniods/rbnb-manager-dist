@@ -160,5 +160,6 @@
   "REPAIR_STATUS.SOLICITADO": "Solicitado",
   "REPAIR_STATUS.RESUELTO": "Resuelto",
   "REPAIR_STATUS.NEGADO": "Negado",
-  "ERR_REPAIR_CODE_REQUIRED": "El código es obligatorio cuando la gestión es por seguro"
+  "ERR_REPAIR_CODE_REQUIRED": "El código es obligatorio cuando la gestión es por seguro",
+  "ERR_INVALID_STATE_TRANSITION": "Transición de estado no permitida según la máquina de estados"
 }

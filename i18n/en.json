@@ -160,5 +160,6 @@
   "REPAIR_STATUS.SOLICITADO": "Requested",
   "REPAIR_STATUS.RESUELTO": "Resolved",
   "REPAIR_STATUS.NEGADO": "Denied",
-  "ERR_REPAIR_CODE_REQUIRED": "The code is required when management is via insurance"
+  "ERR_REPAIR_CODE_REQUIRED": "The code is required when management is via insurance",
+  "ERR_INVALID_STATE_TRANSITION": "State transition is not allowed by the state machine"
 }
