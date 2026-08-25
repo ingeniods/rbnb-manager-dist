@@ -288,5 +288,15 @@
   "SYNC_BLOCKS": "Blocks",
   "SYNC_NO_REPORT": "No report yet",
   "SYNC_CALENDARS_INSTRUCTIONS": "Sync calendars for all units. Units without a calendar URL are marked as pending configuration.",
-  "EVENTS": "Events"
+  "EVENTS": "Events",
+  "GENERATE_TICKETS": "Generate tickets",
+  "GENERATE_TICKETS_INSTRUCTIONS": "Generate review and cleaning tickets for next week's reservations. Only creates missing tickets.",
+  "GENERATE": "Generate",
+  "GENERATE_TICKETS_SUMMARY": "Generated tickets summary",
+  "REVIEW": "Review",
+  "CLEANING": "Cleaning",
+  "SKIPPED": "Skipped",
+  "SELECT_ALL": "Select all",
+  "ERRORS": "Errors",
+  "ERR_NO_UNITS_SELECTED": "Select at least one unit"
 }
