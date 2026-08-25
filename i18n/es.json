@@ -60,6 +60,7 @@
   "PERSON_ROLE.owner": "Propietario",
   "START_AT": "Inicio",
   "END_AT": "Fin",
+  "DAYS": "Días",
   "GUESTS": "Huéspedes",
   "STATUS": "Estado",
   "ERR_GENERIC": "Ocurrió un error, intenta de nuevo",
