@@ -1,0 +1,1 @@
+import{c as i}from"./chunk-RUKEQOT2.js";import{Oa as n}from"./chunk-TF6DYADL.js";var o=class t{transform(e,r="\u2014"){return i(e)||r}static \u0275fac=function(r){return new(r||t)};static \u0275pipe=n({name:"cop",type:t,pure:!0})};export{o as a};
